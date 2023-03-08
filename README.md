@@ -6,6 +6,7 @@
 
 Prostate cancer is a prevalent type of cancer that affects men, and early detection is essential for effective treatment.
 One way to predict prostate cancer is through the log of prostate-specific antigen (PSA) levels, as elevated PSA levels can indicate the presence of cancer. 
+
 This project involves the steps taken to predict the log of PSA (lpsa) from a set of measurements including log cancer volume (lcavol), log prostate weight (lweight), age, log of benign prostatic hyperplasia amount (lbph), seminal vesicle invasion (svi), log of capsular penetration (lcp), Gleason score (gleason), and percent of Gleason scores 4 or 5 (pgg45). 
 
 ## Data Preprocessing: 
